@@ -2,23 +2,27 @@
 
 simple-alarm, as the name suggests, is an alarm that is simple.
 
-Seeed XIAO ESP32C3 x1
-MX-Style Keyboard Switches x4
-2.25in TFT Screen x1
-3.3V Piezo Buzzer x1
-White Blank DSA Keycaps x1
-2.54mm 8 Pin Male Header x1
-20cm Female-Female Jumper Wires x8
-M3x5x4 Heatset Inserts x8
-M3x8mm Screws x4
-M3x16mm Screws x4
-
 The clock has very simple features:
 + 4 buttons
   + Button1 for toggling between modes (Normal, Set Time, Set Alarm)
   + Button2 for Incrementing hours into the clock (both for Set Time & Set Alarm)
   + Button3 for Incrementing minutes in the clock (both for Set Time & Set Alarm)
   + Button4 for stopping the alarm.
+
+
+Parts:
++ Seeed XIAO ESP32C3 x1
++ MX-Style Keyboard Switches x4
++ 2.25in TFT Screen x1
++ 3.3V Piezo Buzzer x1
++ White Blank DSA Keycaps x1
++ 2.54mm 8 Pin Male Header x1
++ 20cm Female-Female Jumper Wires x8
++ M3x5x4 Heatset Inserts x8
++ M3x8mm Screws x4
++ M3x16mm Screws x4
+
+  
 
 <img width="1468" height="762" alt="image" src="https://github.com/user-attachments/assets/0a98a16f-855e-4a09-b5a2-cca0d3209992" />
 
